@@ -1,4 +1,4 @@
-![heiplaceholder](https://i.kek.sh/9mVGl4mr04l.png)
+![kamui24](https://artworks.thetvdb.com/banners/v4/series/420280/banners/65babe633cd78.jpg)
 
 # Ninja Kamui (2024)
 
