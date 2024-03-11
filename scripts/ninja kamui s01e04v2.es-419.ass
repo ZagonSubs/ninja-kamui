@@ -77,7 +77,7 @@ Dialogue: 0,0:05:21.81,0:05:24.39,Default,,0,0,0,,y construyendo armas\N de dest
 Dialogue: 0,0:05:24.39,0:05:27.12,Default,,0,0,0,,Entonces es otro montón de conspiratorios.
 Dialogue: 0,0:05:27.12,0:05:29.77,Default,,0,0,0,,Pero ¿por qué ocultarlo en la Dark Web?
 Dialogue: 0,0:05:31.93,0:05:33.82,Default,,0,0,0,,Supongo que por si acaso.
-Dialogue: 0,0:05:34.53,0:05:38.15,Default,,0,0,0,,Localicé al administrador que dice ser un ex-investigador de AUZA.
+Dialogue: 0,0:05:34.53,0:05:38.15,Default,,0,0,0,,Localicé al administrador que dice ser un exinvestigador de AUZA.
 Dialogue: 0,0:05:38.55,0:05:39.62,Default,,0,0,0,,Bien.
 Dialogue: 0,0:05:39.62,0:05:41.37,Default,,0,0,0,,Aunque está bastante lejos.
 Dialogue: 0,0:05:41.37,0:05:44.00,Default,,0,0,0,,No hay problema. Iré solo.
@@ -149,7 +149,7 @@ Dialogue: 0,0:09:16.80,0:09:19.52,Default,,0,0,0,,¿Qué tan lejos crees que ese
 Dialogue: 0,0:09:19.52,0:09:21.38,Default,,0,0,0,,¿Te preocupa?
 Dialogue: 0,0:09:21.38,0:09:23.28,Default,,0,0,0,,¡Me emociona!
 Dialogue: 0,0:09:23.28,0:09:26.88,Default,,0,0,0,,¿Por qué crees que me uní a ustedes?
-Dialogue: 0,0:09:27.48,0:09:31.26,Default,,0,0,0,,Espero que finalmente consigamos datos decentes del prototipo.
+Dialogue: 0,0:09:27.48,0:09:31.26,Default,,0,0,0,,Espero que finalmente consigamos datos decentes del prototipo. 
 Dialogue: 0,0:09:32.15,0:09:34.05,Default,,0,0,0,,Espero que no muera tan rápido.
 Dialogue: 0,0:09:35.65,0:09:38.77,Default,,0,0,0,,Solo dilo, y lo mataré en un abrir y cerrar de ojos.
 Dialogue: 0,0:09:38.77,0:09:41.09,Default,,0,0,0,,No irás a ningún lado.
@@ -207,7 +207,7 @@ Dialogue: 0,0:14:46.89,0:14:48.88,Default,,0,0,0,,No volveré solo.
 Dialogue: 0,0:14:48.88,0:14:50.48,Default,,0,0,0,,Recuerda el código.
 Dialogue: 0,0:14:50.48,0:14:53.07,Default,,0,0,0,,Debemos estar emocionalmente distantes, hasta de los aliados.
 Dialogue: 0,0:14:53.07,0:14:54.55,Default,,0,0,0,,Desde que te conocí,
-Dialogue: 0,0:14:56.29,0:14:58.56,Default,,0,0,0,,he roto el código.
+Dialogue: 0,0:14:56.29,0:14:58.56,Default,,0,0,0,,he roto el código. {mfw rompido :whyy}
 Dialogue: 0,0:15:28.44,0:15:29.53,Default,,0,0,0,,¿Están bien?
 Dialogue: 0,0:15:52.03,0:15:54.89,Default,,0,0,0,,{\i1}Por favor deje su mensaje después del tono.
 Dialogue: 0,0:15:56.56,0:16:00.20,Default,,0,0,0,,Demonios, Pato.\N¿Acaso nunca respondes?
